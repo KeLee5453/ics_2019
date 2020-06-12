@@ -1,5 +1,6 @@
 *.*
 !*/
+!/report/*
 !/nemu/*
 !/nexus-am/*
 !/nanos-lite/*
